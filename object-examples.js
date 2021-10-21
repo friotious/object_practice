@@ -6,3 +6,10 @@ var car {
   has4wd: true,
   color: 'black'
 }
+//
+var animal {
+  isMammal: true,
+  isLandMammal: false,
+  species: 'blue',
+  weight: 300000
+}
